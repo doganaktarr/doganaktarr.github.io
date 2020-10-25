@@ -8,4 +8,11 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Merhaba,
+
+Ben Doğan. Eskişehir Osmangazi Üniversitesi'nde öğrenciyim.
+
+Python ve C# dillerine Başlangıç-Orta düzeyde hakim olduğumu düşünüyorum.           
+Ürettikçe gelişmeye, geliştikçe de yaptığım işten keyif alıyorum.
+
+21 Yıldır okulda olduğum süreler dışında Antalya'da yaşıyorum.
