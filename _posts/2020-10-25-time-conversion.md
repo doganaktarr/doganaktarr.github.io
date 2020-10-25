@@ -1,3 +1,11 @@
+---
+title: Time Conversion | HackerRank
+author: Doğan Aktar
+date: 2020-10-25 15:21:00 +0800
+categories: [Algorithms]
+tags: [hackerrank]
+---
+
 ## 
 
 Problemde bize verilen  12-saat AM/PM formatlı saati 24-saat formatına çevirmemizi istiyor. Probleme [buradan](https://www.hackerrank.com/challenges/time-conversion/problem) ulaşabilirsiniz.
