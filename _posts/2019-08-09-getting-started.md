@@ -8,4 +8,4 @@ tags: [hello world]
 
 ## Merhaba
 
- Bu blog sayfamda sizlere kitap incelemeleri ve makale paylaşımları yapacağım, en kısa zamanda tekrar   görüşmek üzere!
+ Bu blog sayfamda sizlere kitap incelemeleri ve problem çözümleri paylaşacağım, en kısa zamanda tekrar görüşmek üzere!
