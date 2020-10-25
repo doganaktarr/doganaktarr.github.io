@@ -45,7 +45,7 @@ def timeConversion(s):
 ``` 
 burada ilk yaptığımız işlem girilen saati `split()` komutu ile her ':' işaretini gördüğümüzde ayırıyoruz. Böylece girdimiz 3 parçaya bölünmüş oluyor. 
 ```python
-	if s[-2:] == "PM" and int(time[0]) < 12:
+    if s[-2:] == "PM" and int(time[0]) < 12:
             time[0] = str(int(time[0])+12)
     
     if s[-2:] == "AM" and int(time[0]) > 12:
