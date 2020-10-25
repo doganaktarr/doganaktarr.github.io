@@ -36,6 +36,6 @@ def staircase(n):
     for i in range(1, n+1):
         print(" " * (n-i) + i*"#")
 ```
-döngüyü 1 den başlatmamızın nedeni **print()** fonksiyonunda **n-i** sayıda boşluk ve **i** sayıda kare yazdırmamız gerektiği. Eğer döngüyü 0 dan başlatmış olsaydık ilk adımda n sayıda boşluk ve 0 sayıda kare yazdırmış olacaktı. Döngüyü **n+1** e kadar götürmemizin nedeni ise pythonda **for** döngüsünün aldığı 2. değere **kadar** gitmesi.Eğer bu sayı n olsayı her zaman 1 adımımız eksik olacaktı.
+döngüyü 1 den başlatmamızın nedeni `print()` fonksiyonunda **n-i** sayıda boşluk ve **i** sayıda kare yazdırmamız gerektiği. Eğer döngüyü 0 dan başlatmış olsaydık ilk adımda n sayıda boşluk ve 0 sayıda kare yazdırmış olacaktı. Döngüyü **n+1** e kadar götürmemizin nedeni ise pythonda **for** döngüsünün aldığı 2. değere **kadar** gitmesi.Eğer bu sayı n olsayı her zaman 1 adımımız eksik olacaktı.
 
 Videolu çözüme [buradan](https://www.youtube.com/watch?v=6a0Fw7q7Amk&t=2s) ulaşabilirsiniz.
