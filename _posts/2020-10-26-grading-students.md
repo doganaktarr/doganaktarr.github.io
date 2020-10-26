@@ -1,3 +1,11 @@
+---
+title: Grading Students | HackerRank
+author: Doğan Aktar
+date: 2020-10-26 16:41:00 +0800
+categories: [Algorithms]
+tags: [hackerrank]
+---
+
 ## 
 
 Problemde bizden belli kurallara göre öğrencileri notlandırmamızı istiyor. Probleme [buradan](https://www.hackerrank.com/challenges/grading/problem) ulaşabilirsiniz. Öğrencileri şu kurallara göre notluyoruz:
