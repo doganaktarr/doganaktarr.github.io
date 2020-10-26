@@ -15,7 +15,7 @@ Problemde bizden belli kurallara göre öğrencileri notlandırmamızı istiyor.
 
 ## Örneğin
 - **grade = 84** ise çıktı **85** oluyor.(Çünkü 85-84 < 3)
-- **grade = 29** ise çıktı **29** oluyor.(29 < 40)
+- **grade = 29** ise çıktı **29** oluyor.(Çünkü 29 < 40)
 - **grade = 38** ise çıktı **40** oluyor.(Çünkü 40-38 < 3)
 
 olacak şekilde notlandırıyoruz. Mesela şöyle bir örnek girdi olsun:
