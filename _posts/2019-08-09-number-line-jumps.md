@@ -50,7 +50,7 @@ def kangaroo(x1, v1, x2, v2):
         x2 += v2
     return "NO"
 ```
-burada yaptığımız ilk işlem fonksiyona az önce aldığımız değerleri vermek. Daha sonra kanguruların maksimum zıplayabileceği mesafeye kadar bir döngü açıyoruz. Dögünün içinde her bir adımda her iki kangurunun da mevcut konumuna zıplama mesafesini ekleyip birbirleriyle aynı konumlarda mı diye kontrol ediyoruz. Eğer aynı yerdelerse
+burada yaptığımız ilk işlem fonksiyona az önce aldığımız değerleri vermek. Daha sonra kanguruların maksimum zıplayabileceği mesafeye kadar bir döngü açıyoruz. Döngünün içinde her bir adımda her iki kangurunun da mevcut konumuna zıplama mesafesini ekleyip birbirleriyle aynı konumlarda mı diye kontrol ediyoruz. Eğer aynı yerdelerse
 `"YES"` çıktısını veriyoruz. Aynı konumda değilseler de mevcut konumlarına sıçrama mesafelerini ekleyip tekrar kontrol ediyoruz. Böylece iki kanguruyu da her bir sıçramalarından sonra kontrol ediyoruz. Eğer kaplumbağalar döngü boyunca hiç aynı konumda olmadılalarsa hiç buluşamadılar demektir bu yüzden `"NO"` çıktısını veriyoruz.
 
 Kodumuzun tam hali şu şekildedir:
