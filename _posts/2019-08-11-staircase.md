@@ -1,7 +1,7 @@
 ---
 title: Staircase | HackerRank
 author: Doğan Aktar
-date: 2020-10-24 21:46:00 +0800
+date: 2020-10-23 21:46:00 +0800
 categories: [Algorithms]
 tags: [hackerrank]
 ---
