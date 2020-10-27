@@ -1,7 +1,7 @@
 ---
 title: Number Line Jumps | HackerRank
 author: Doğan Aktar
-date: 2020-10-27 20:46:00 +0800
+date: 2020-10-27 15:00:00 +0800
 categories: [Algorithms]
 tags: [hackerrank]
 ---
