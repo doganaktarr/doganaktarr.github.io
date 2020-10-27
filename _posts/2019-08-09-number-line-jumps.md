@@ -39,7 +39,7 @@ result = kangaroo(x1, v1, x2, v2)
 
 print(result + '\n')
 ```
-burada öncelikle girilen girdileri bir listeye atıyoruz. Bu lisenin ilk elemanı ilk kangurumuzun konumunu **x1** ve ikinci elemanı ilk kangurunun zıplama mesafesi **v1** olacak şekilde atıyoruz. Daha sonra 3. ve 4. eleman da aynı şekilde ikinci kangurunun konumu **x2** ve zıplama mesafesi **v2** olacak şekilde atıyoruz. Daha sonra birazdan çözecek olacağımız fonksiyonun sonucunu bir değişkene atayıp bunu ekrana yazdırıyoruz. Gelelim fonksiyonumuza:
+burada öncelikle girilen girdileri bir listeye atıyoruz. Bu listenin ilk elemanı ilk kangurumuzun konumunu **x1** ve ikinci elemanı ilk kangurunun zıplama mesafesi **v1** olacak şekilde atıyoruz. Daha sonra 3. ve 4. eleman da aynı şekilde ikinci kangurunun konumu **x2** ve zıplama mesafesi **v2** olacak şekilde atıyoruz. Daha sonra birazdan çözecek olacağımız fonksiyonun sonucunu bir değişkene atayıp bunu ekrana yazdırıyoruz. Gelelim fonksiyonumuza:
 
 ```python
 def kangaroo(x1, v1, x2, v2):
