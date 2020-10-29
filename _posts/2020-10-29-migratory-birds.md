@@ -8,7 +8,7 @@ tags: [hackerrank]
 
 ## 
 
-Bu [problemde](https://www.hackerrank.com/challenges/migratory-birds/problem) göç eden kuşları inceleyen bir grupta görevliyiz. Göç eden her kuş tipi bir integer değer ile belirtiliyor. Bizden istenen iste göç eden kuş grubunda en fazla hangi kuş tipi olduğunu bulmak. Eğer aynı sayıda kuş tipi var ise en düşük değeri almamızı istiyor. Mesela göç eden kuşların listesi şöyle olsun **arr = [1,1,2,2,3]**. Burada görüldüğü üzere en fazla sayıda olan 2 kuş tipi var **1** ve **2**. En küçük integer tipi alacağımız için problemimizin çıktısı **1** olacak.
+Bu [problemde](https://www.hackerrank.com/challenges/migratory-birds/problem) göç eden kuşları inceleyen bir grupta görevliyiz. Göç eden her kuş tipi bir integer değer ile belirtiliyor. Bizden istenen ise göç eden kuş grubunda en fazla hangi kuş tipi olduğunu bulmak. Eğer aynı sayıda kuş tipi var ise en düşük değeri almamızı istiyor. Mesela göç eden kuşların listesi şöyle olsun **arr = [1,1,2,2,3]**. Burada görüldüğü üzere en fazla sayıda olan 2 kuş tipi var **1** ve **2**. En küçük integer tipi alacağımız için problemimizin çıktısı **1** olacak.
 
 ## Örneğin
 ```
