@@ -20,7 +20,7 @@ girdisi verilmiş olsun. Bu girdimizin çıktısının şu şekilde olması laz�
 ```
 1
 ```
-Çıktımız **1**, çünkü deniz seviyesini _ , yukarı adımı /, ve aşağı adımı da \ olarak alalım. O zaman yukarıdaki girdimizin şekli şöyle olacak;
+Çıktımız **1**, deniz seviyesini _ , yukarı adımı /, ve aşağı adımı da \ olarak alalım. O zaman yukarıdaki girdimizin şekli şöyle olacak;
 ```
 _/\      _
    \    /
