@@ -1,11 +1,10 @@
 ---
-title: İlk Paylaşım!
+title: 1/12
 author: Doğan Aktar
-date: 2020-10-10 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [hello world]
+date: 2021-1-31 23:55:00 +0800
+categories: [Blogging]
+tags: [progress]
 ---
-#1/12
 Ocak ayını bitirmek üzereyken bu ayın kısa bir değerlendirmesini yapmak istedim. İlk 2 hafta çok güzel ve tıkır tıkır giderken son 2 hafta final sınavlarımın olması nedeniyle bazı yapmam gerek şeyleri ertelemek zorunda kaldım. Fakat şu ana kadar her şey çok güzel ve keyifli gidiyor. 
 
 - Bu ay 5 kitap okudum, 6. kitabın da yarılarındayım. Okuduğum kitapları ayrı bir post olarak yazmayı düşünüyorum.
